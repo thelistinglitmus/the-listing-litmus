@@ -10,7 +10,7 @@ The name is the project's job: a litmus test you can run on a listing before you
 
 A regularly-updated CSV and human-readable markdown list of companies that consistently fail a vetting checklist (see [VETTING.md](VETTING.md)). Entries are added only when at least three independent third-party signals corroborate the pattern.
 
-Companion to the weekly digest on Substack (publication coming soon at `thelistinglitmus.substack.com`). The digest narrates the patterns; this repo holds the raw data.
+Companion to the [weekly digest on Substack](https://thelistinglitmus.substack.com/). The digest narrates the patterns; this repo holds the raw data.
 
 ## How the data is organized
 
